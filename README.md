@@ -1,5 +1,5 @@
 # Raspberry Pi Pico
-## LICENSE IS: GNU-GPL 2.0
+## LICENSE IS: GPL 3.0
 A very small microcontroller, but then with small cost. It's price 5$!
 You can buy anywhere.
 ![pi-pico](images/3643332-40.jpg)
